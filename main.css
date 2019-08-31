@@ -1,0 +1,210 @@
+.mediaViewInfo {
+	--web-view-name: NYphotography;
+	--web-view-id: NYphotography;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: NYphotography;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+#NYphotography {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 1898px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: NYphotography;
+	--web-view-id: NYphotography;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 135px;
+	left: 0px;
+	top: 0px;
+}
+#HOME {
+	position: absolute;
+	left: 144px;
+	top: 44px;
+	overflow: visible;
+	width: 132px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#ABOUT {
+	position: absolute;
+	left: 595px;
+	top: 44px;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#PORTFOLIO {
+	position: absolute;
+	left: 1063px;
+	top: 44px;
+	overflow: visible;
+	width: 246px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#CONTACT {
+	position: absolute;
+	left: 1628px;
+	top: 44px;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+.DSC_0491 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 689px;
+	left: 0px;
+	top: 135px;
+}
+#NOELLE_YEAZEL {
+	position: absolute;
+	left: 697px;
+	top: 651px;
+	overflow: visible;
+	width: 527px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Century;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 12px;
+	height: 54px;
+	left: 1241.5px;
+	top: 660.5px;
+	overflow: visible;
+}
+.Line_1 {
+	position: absolute;
+	top: 27px;
+	left: 0px;
+	width: 3px;
+	height: 57px;
+	transform: rotate(180deg);
+	overflow: visible;
+}
+.Line_2 {
+	position: absolute;
+	top: 20px;
+	left: 0px;
+	width: 3px;
+	height: 43px;
+	transform: rotate(180deg);
+	overflow: visible;
+}
+#Group_3 {
+	transform: rotate(180deg);
+	transform-origin: left;
+	position: absolute;
+	width: 12px;
+	height: 54px;
+	left: 666.5px;
+	top: 660.5px;
+	overflow: visible;
+}
+.Line_1_A0_Line_3 {
+	position: absolute;
+	top: 27px;
+	left: 0px;
+	width: 3px;
+	height: 57px;
+	transform: rotate(180deg);
+	overflow: visible;
+}
+.Line_2_A0_Line_4 {
+	position: absolute;
+	top: 20px;
+	left: 0px;
+	width: 3px;
+	height: 43px;
+	transform: rotate(180deg);
+	overflow: visible;
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 430px;
+	top: 64px;
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 898px;
+	top: 64px;
+}
+.Ellipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 1463px;
+	top: 64px;
+}
+#_photography {
+	position: absolute;
+	left: 821px;
+	top: 608px;
+	overflow: visible;
+	width: 276px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Edwardian Script ITC;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(255,255,255,1);
+}
